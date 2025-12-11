@@ -1,16 +1,4 @@
-# PRODIGY_GA_TASK1
+# PRODIGY_GA_TASKS
 
-Task 1: Text generation using GPT-2 with Prodigy in Google Colab
-
-## Description
-This repository contains Task 1 of the Generative AI Prodigy project. The task focuses on **text generation using GPT-2** implemented in **Google Colab** with Prodigy.
-
-## Tools & Technologies
-- Google Colab
-- Prodigy
-- GPT-2 (Generative AI model)
-- Python
-
-## Usage
-1. Open the notebook `PRODIGY_GA_TASK1.ipynb` in Google Colab.
-2. Run the cells step by step to generate text using GPT-2.
+This repository showcases **five Generative AI projects** completed using **Prodigy** in **Google Colab**.  
+Each project demonstrates the practical application of generative AI techniques, including text generation, image generation, and other creative AI workflows.
